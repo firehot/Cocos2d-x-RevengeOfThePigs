@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Levels>
+  <Level BigId="4" SmallId="1">
+    <Score score1="0"
+           score2="58000"
+           score3="60600"/>
+    <ShotPosition x="296" y="274"/>
+    <BackGround image1="Scene_Layer/Bridge1"
+     image2="Scene_Layer/Bridge2"
+     image3="Scene_Layer/Bridge3"
+     image4="Scene_Layer/Bridge4"/>
+
+
+    <Pig type="2" image="NinjaPigIce" x="230" y="205"/>
+    <Pig type="2" image="NinjaPigIce" x="189" y="185"/>
+    <Pig type="1" image="NormalPigIce" x="294" y="254"/>
+
+
+    <SlingShotL image="SlingShot_L" x="299" y="233"/>
+    <SlingShotR image="SlingShot_R" x="299" y="233"/>
+
+    <Props image="Stone6" type="7" x="299" y="155" />
+    <Props image="Stone6" type="7" x="259" y="155" />
+    <Props image="Stone6" type="7" x="178" y="155"  />
+    <Props image="Stone6" type="7" x="340" y="155" />
+    <Props image="Box" type="7" x="296" y="190"/>
+    <Props image="Box" type="7" x="265" y="190"/>
+	<Props image="Wood6" type="7" x="219" y="155" />
+    <Props image="Wood2" type="7" x="232" y="185"  rot="90"/>
+	<Props image="Wood2" type="7" x="331" y="185" rot="90" />
+	
+	
+    <Props image="Wood7" type="77" x="898" y="339" />
+    <Props image="Wood5" type="3" x="884" y="314" />
+    <Props image="Wood5" type="3" x="793" y="314" />
+    <Props image="Wood5" type="3" x="1033" y="142"/>
+
+    <Props image="Glass5" type="15" x="873" y="214"   />
+    <Props image="Glass5" type="15" x="948" y="232"  />
+    <Props image="Glass5" type="15" x="938" y="281"  rot="90"/>
+    <Props image="Glass5" type="15" x="960" y="281"  rot="90" />
+    <Props image="Glass5" type="15" x="838" y="263" rot="90"/>
+    <Props image="Glass5" type="15" x="895" y="263" rot="90"/>
+    <Props image="Glass5" type="15" x="755" y="182" rot="90" />
+    <Props image="Glass5" type="15" x="777" y="182"  rot="90"/>
+    <Props image="Glass5" type="15" x="960" y="182" rot="90"/>
+    <Props image="Glass5" type="15" x="938" y="182" rot="90"/>
+
+    <Props image="Wood6" type="3" x="1060" y="208" />
+    <Props image="Wood6" type="3" x="1060" y="168"/>
+    <Props image="Wood6" type="3" x="1060" y="248"/>
+    <Props image="Wood6" type="3" x="1060" y="287"/>
+
+    <Props image="Glass6" type="615" x="724" y="158" state="begin_null"/>
+    <Props image="Glass6" type="615" x="724" y="241" />
+    <Props image="Glass6" type="615" x="724" y="280" />
+    <Props image="Glass6" type="615" x="724" y="201" state="end"/>
+   
+ 
+    <Props image="Box" type="13" x="863" y="333" />
+   
+    <Props image="Wood2" type="3" x="839" y="337" />
+    <Props image="Wood2" type="3" x="884" y="146" rot="90"/>
+    <Props image="Wood2" type="3" x="948" y="346" rot="90"/>
+    <Props image="Wood2" type="3" x="848" y="147"  rot="90"/>
+    <Props image="Wood2" type="3" x="884" y="165"  rot="90"/>
+
+    <Props image="Wood3" type="3" x="925" y="337" />
+    <Props image="Wood3" type="3" x="947" y="332" rot="90" />
+
+    <Props image="Glass6" type="15" x="764" y="267"/>
+    <Props image="Glass6" type="15" x="1017" y="166" />
+    <Props image="Glass6" type="15" x="810" y="157"/>
+    <Props image="Glass2" type="15" x="848" y="166" rot="90" />
+    <Props image="Glass2" type="15" x="764" y="297" rot="90"/>
+    <Props image="Glass2" type="15" x="764" y="238" rot="90"/>
+
+    <Props image="Glass3" type="15" x="896" y="192"  />
+    <Props image="Glass3" type="15" x="871" y="192"  />
+    <Props image="Glass3" type="15" x="838" y="192" />
+
+    <Props image="BirdF"  type="21" x="862" y="363"/>
+    <Props image="BirdF" type="21" x="810" y="195"/>
+    <Props image="BirdA"  type="22" x="787" y="333"/>
+    <Props image="BirdA"  type="22" x="1059" y="323"/>
+    <Props image="BirdA"  type="22" x="946" y="371"/>
+    <Props image="BirdA" type="22" x="1017" y="204"/>
+    <Props image="BirdA" type="22" x="724" y="316"/>
+
+  </Level>
+
+
+
+
+  <Level BigId="4" SmallId="2">
+    <Score score1="0"
+           score2="47000"
+           score3="53000"/>
+    <ShotPosition x="316" y="265"/>
+    <BackGround image1="Scene_Layer/Bridge1"
+        image2="Scene_Layer/Bridge2"
+        image3="Scene_Layer/Bridge3"
+        image4="Scene_Layer/Bridge4"/>
+
+    <Pig type="2" image="NinjaPigIce" x="278" y="219"/>
+    <Pig type="1" image="NormalPigIce" x="243" y="209"/>
+    <Pig type="3" image="SpeedPigIce" x="344" y="209"/>
+    <SlingShotL image="SlingShot_L" x="313" y="232"/>
+    <SlingShotR image="SlingShot_R" x="313" y="232"/>
+    <Props image="Wood2" type="7" x="246" y="184" rot="90"/>
+    <Props image="Wood6" type="7" x="233" y="154" />
+     <Props image="Box" type="7" x="279" y="189"/>
+    <Props image="Box" type="7" x="310" y="189" />
+    <Props image="Stone6" type="7" x="313" y="157" />
+    <Props image="Stone6" type="7" x="273" y="157" />
+    <Props image="Stone6" type="7" x="192" y="157"  />
+    <Props image="Stone6" type="7" x="354" y="157" />
+	<Props image="Wood2" type="3" x="345" y="184"  rot="90"/>
+	
+	
+    <Props image="Stone6" type="33" x="899" y="157" />
+    <Props image="Stone6" type="33" x="1067" y="157" />
+    <Props image="Stone6" type="33" x="1091" y="195"  />
+    <Props image="Stone6" type="33" x="1119" y="154" />
+
+    <Props image="Wood7" type="77" x="804" y="157" />
+    <Props image="Wood7" type="77" x="851" y="157" />
+    <Props image="Wood7" type="77" x="827" y="157" rot="180" />
+
+
+    <Props image="Glass5" type="15" x="742" y="217" />
+    <Props image="Wood5" type="3" x="832" y="219" />
+    <Props image="Wood5" type="3" x="977" y="199"/>
+
+    <Props image="Glass5" type="15" x="832" y="274" />
+    <Props image="Wood5" type="3" x="1088" y="337" />
+    <Props image="Wood5" type="3" x="1036" y="251"/>
+    <Props image="Wood5" type="3" x="919" y="350" />
+    <Props image="Wood5" type="3" x="887" y="212" rot="90"/>
+    <Props image="Wood5" type="3" x="913" y="212" rot="90"/>
+    <Props image="Wood5" type="3" x="827" y="184" />
+
+
+    <Props image="Glass3" type="15" x="801" y="206"  />
+    <Props image="Glass3" type="15" x="801" y="251"/>
+    <Props image="Glass3" type="15" x="852" y="206" />
+    <Props image="Glass3" type="15" x="852" y="251"  />
+    <Props image="Glass3" type="15" x="826" y="251" />
+	
+    <Props image="Wood3" type="3" x="1004" y="190" rot="90"/>
+    <Props image="Wood3" type="3" x="945" y="189" rot="90" />
+    <Props image="Wood3" type="3" x="887" y="327" />
+    <Props image="Wood3" type="3" x="913" y="327"/>
+    <Props image="Wood3" type="3" x="1086" y="264" />
+    <Props image="Wood3" type="3" x="1096" y="264"/>
+
+
+    <Props image="Wood2" type="3" x="945" y="175" rot="90" />
+    <Props image="Glass2" type="15" x="771" y="194" />
+    <Props image="Glass2" type="15" x="714" y="194"/>
+    <Props image="Wood2" type="3" x="1004" y="175"  rot="90"/>
+    <Props image="Wood2" type="3" x="1091" y="321"  rot="90"/>
+    <Props image="Wood2" type="3" x="956" y="294"  rot="90"/>
+
+    <Props image="Wood6" type="3" x="899" y="288" />
+    <Props image="Wood6" type="3" x="720" y="157" />
+    <Props image="Wood6" type="3" x="762" y="157" />
+    <Props image="Wood6" type="3" x="996" y="214" />
+    <Props image="Wood6" type="3" x="955" y="324" />
+    <Props image="Wood6" type="3" x="955" y="264" />
+    <Props image="Wood6" type="3" x="955" y="214" />
+
+  
+    <Props image="Box" type="13" x="686" y="151"/>
+    <Props image="Box" type="13" x="944" y="151"  />
+    <Props image="Box" type="13" x="1004" y="151" />
+    <Props image="Box" type="13" x="1089" y="230"   />
+    <Props image="Box" type="13" x="1090" y="297" />
+
+    <Props image="Box2" type="11" x="637" y="151" />
+    <Props image="Box5" type="11" x="935" y="369" />
+
+    <Props image="BirdF"  type="21" x="932" y="399"/>
+    <Props image="BirdF" type="21" x="804" y="293"/>
+    <Props image="BirdF"  type="21" x="896" y="369"/>
+    <Props image="BirdA"  type="22" x="1092" y="356"/>
+    <Props image="BirdA"  type="22" x="733" y="236"/>
+    <Props image="BirdA" type="22" x="741" y="193"/>
+
+    <Props image="Flower" type="6" x="1162" y="160" />
+    <Props image="Grass" type="2" x="584" y="151" />
+
+  </Level>
+
+
+  <Level BigId="4" SmallId="3">
+    <Score score1="0"
+           score2="62000"
+           score3="62500"/>
+    <ShotPosition x="304" y="257"/>
+    <BackGround image1="Scene_Layer/Bridge1"
+     image2="Scene_Layer/Bridge2"
+     image3="Scene_Layer/Bridge3"
+     image4="Scene_Layer/Bridge4"/>
+
+    <Pig type="4" image="BombPigIce" x="154" y="151"/>
+    <Pig type="1" image="NormalPigIce" x="221" y="185"/>
+    <Pig type="1" image="NormalPigIce" x="265" y="189"/>
+    <Props image="Wood6" type="7" x="260" y="153"/>
+    <Props image="Box" type="7" x="189" y="150"/>
+    <Props image="Box" type="7" x="225" y="149" />
+    <Props image="Wood2" type="7" x="289" y="152"  />
+    <Props image="Wood2" type="7" x="308" y="152"  />
+    <Props image="Wood2" type="7" x="299" y="179" rot="90"/>
+	
+	
+    <SlingShotL image="SlingShot_L" x="301" y="217"/>
+    <SlingShotR image="SlingShot_R" x="301" y="217"/>
+
+    <Props image="Stone2" type="33" x="691" y="194" />
+    <Props image="Stone2" type="33" x="709" y="194" />
+    <Props image="Stone2" type="33" x="924" y="194"/>
+    <Props image="Stone2" type="33" x="943" y="194"/>
+    <Props image="Stone2" type="33" x="1127" y="194" />
+    <Props image="Stone2" type="33" x="1146" y="194" />
+    <Props image="Stone2" type="33" x="924" y="273" />
+    <Props image="Stone2" type="33" x="943" y="273" />
+    <Props image="Stone2" type="33" x="692" y="270"/>
+    <Props image="Stone2" type="33" x="710" y="270" />
+
+
+
+    <Props image="Stone4" type="33" x="704" y="293" />
+    <Props image="Stone4" type="33" x="936" y="296" />
+    <Props image="Stone4" type="33" x="936" y="346" />
+
+
+    <Props image="Stone6" type="33" x="699" y="157" />
+    <Props image="Stone6" type="33" x="932" y="157" />
+    <Props image="Stone6" type="33" x="1136" y="157" />
+    <Props image="Stone6" type="33" x="934" y="234" />
+    <Props image="Stone6" type="33" x="1138" y="234" />
+    <Props image="Stone6" type="33" x="934" y="321" />
+    <Props image="Stone6" type="33" x="701" y="231" />
+
+
+    <Props image="Glass4" type="615" x="1049" y="387" tag="1" state="begin_null"/>
+    <Props image="Glass4" type="615" x="1005" y="420" rot="120" to="1"/>
+    <Props image="Glass4" type="615" x="1099" y="422" rot="60" state="end"/>
+    <Props image="Glass4" type="15" x="1049" y="294" />
+    <Props image="Glass4" type="615" x="1049" y="340" tag="2" state="begin_null"/>
+    <Props image="Glass4" type="615" x="1099" y="373" rot="60"/>
+    <Props image="Glass4" type="615" x="1005" y="373" rot="120" to="2" state="end"/>
+    <Props image="Wood4" type="3" x="832" y="294" />
+    <Props image="Wood4" type="3" x="832" y="339" />
+    <Props image="Wood4" type="3" x="832" y="385"/>
+
+
+    <Props image="Wood6" type="3" x="832" y="158"/>
+    <Props image="Glass6" type="15" x="1048" y="156"/>
+    <Props image="Glass6" type="15" x="1050" y="233"/>
+    <Props image="Wood6" type="3" x="832" y="233"/>
+ 
+
+
+    <Props image="Wood2" type="3" x="843" y="197" />
+    <Props image="Glass2" type="15" x="1059" y="197" />
+    <Props image="Wood2" type="3" x="824" y="272" />
+    <Props image="Wood2" type="3" x="843" y="272" />
+    <Props image="Glass2" type="15" x="1040" y="195" />
+    <Props image="Glass2" type="15" x="1059" y="272"  />
+    <Props image="Glass2" type="15" x="1040" y="272" />
+    <Props image="Glass2" type="15" x="1059" y="317" />
+    <Props image="Glass2" type="15" x="1040" y="317" />
+    <Props image="Glass2" type="15" x="1059" y="364" />
+    <Props image="Glass2" type="15" x="1040" y="364"  />
+    <Props image="Wood2" type="3" x="843" y="316"  />
+    <Props image="Wood2" type="3" x="823" y="362" />
+    <Props image="Wood2" type="3" x="843" y="362" />
+  
+    <Props image="Wood2" type="3" x="824" y="316" />
+    <Props image="Wood2" type="3" x="824" y="197"  />
+  
+
+
+    <Props image="BirdB"  type="22" x="935" y="368"/>
+    <Props image="BirdB"  type="22" x="705" y="315"/>
+    <Props image="BirdC" type="23" x="840" y="409"/>
+    <Props image="BirdC" type="23" x="1057" y="410"/>
+
+
+
+    <Props image="Flower" type="6" x="994" y="161" />
+    <Props image="Grass" type="6" x="769" y="149" />
+    <Props image="Grass" type="6" x="507" y="149" />
+    <Props image="Grass" type="6" x="573" y="149" />
+
+
+  </Level>
+  <Level BigId="4" SmallId="4">
+    <Score score1="0"
+           score2="50000"
+           score3="55000"/>
+    <ShotPosition x="304" y="240"/>
+    <BackGround image1="Scene_Layer/Bridge1"
+       image2="Scene_Layer/Bridge2"
+       image3="Scene_Layer/Bridge3"
+       image4="Scene_Layer/Bridge4"/>
+
+    <Pig type="3" image="SpeedPigIce" x="182" y="232"/>
+    <Pig type="1" image="NormalPigIce" x="223" y="230"/>
+    <Pig type="1" image="NormalPigIce" x="303" y="230"/>
+    <SlingShotL image="SlingShot_L" x="307" y="203"/>
+    <SlingShotR image="SlingShot_R" x="307" y="203"/>
+    <Props image="Wood6" type="7" x="181" y="195"/>
+    <Props image="Wood6" type="7" x="142" y="195" />
+    <Props image="Wood6" type="7" x="221" y="195"/>
+    <Props image="Stone6" type="7" x="261" y="156" />
+    <Props image="Stone6" type="7" x="221" y="156" />
+    <Props image="Stone6" type="7" x="181" y="156"  />
+    <Props image="Stone6" type="7" x="142" y="156" />
+    <Props image="Stone6" type="7" x="300" y="156" />
+    <Props image="Stone6" type="33" x="784" y="156" />
+    <Props image="Stone6" type="33" x="864" y="156"  />
+    <Props image="Stone6" type="33" x="1013" y="156" />
+    <Props image="Stone6" type="33" x="1053" y="156" />
+    <Props image="Stone6" type="33" x="1094" y="156" />
+    <Props image="Stone6" type="33" x="1133" y="156" />
+    <Props image="Stone6" type="33" x="1093" y="156"  />
+    <Props image="Stone6" type="33" x="824" y="156" />
+    <Props image="Stone6" type="33" x="1094" y="196" />
+
+    <Props image="Wood7" type="77" x="1048" y="297" />
+
+    <Props image="Wood5" type="3" x="743" y="266" />
+    <Props image="Wood5" type="3" x="907" y="296" />
+    <Props image="Wood5" type="3" x="1024" y="272"/>
+    <Props image="Wood5" type="3" x="742" y="347" />
+    <Props image="Wood5" type="3" x="906" y="343" />
+    <Props image="Wood5" type="3" x="908" y="389"/>
+    <Props image="Wood5" type="3" x="744" y="215" />
+    <Props image="Wood5" type="3" x="744" y="218" />
+
+    
+    <Props image="Wood6" type="3" x="864" y="198" />
+    <Props image="Wood6" type="3" x="905" y="179" />
+    <Props image="Wood6" type="3" x="946" y="197"  />
+    <Props image="Wood6" type="3" x="716" y="254"/>
+    <Props image="Wood6" type="3" x="780" y="254"  />
+    <Props image="Wood4" type="3" x="704" y="306" rot="90" />
+    <Props image="Wood4" type="3" x="770" y="306"  rot="90"/>
+    <Props image="Wood4" type="3" x="1060" y="212" rot="90"/>
+
+    <Props image="Wood3" type="3" x="936" y="385" rot="90"/>
+    <Props image="Wood3" type="3" x="869" y="237"  />
+    <Props image="Wood3" type="3" x="907" y="273" />
+    <Props image="Wood3" type="3" x="870" y="366" />
+    <Props image="Wood3" type="3" x="946" y="236"/>
+    <Props image="Wood3" type="3" x="984" y="248"/>
+
+    <Props image="Glass2" type="15" x="706" y="156" />
+    <Props image="Glass2" type="15" x="706" y="192"  />
+    <Props image="Wood2" type="3" x="940" y="319"   />
+    <Props image="Wood2" type="3" x="945" y="272"  />
+    <Props image="Wood2" type="3" x="983" y="176"   />
+    <Props image="Wood2" type="3" x="983" y="212"  />
+    <Props image="Wood2" type="3" x="868" y="273"   />
+
+    <Props image="Wood2" type="3" x="906" y="237"  />
+    <Props image="Wood2" type="3" x="903" y="149"  rot="90"/>
+    <Props image="Wood2" type="3" x="975" y="148"  rot="90"/>
+    <Props image="Wood2" type="3" x="906" y="209" rot="90"/>
+    <Props image="Wood2" type="3" x="880" y="309"  rot="90"/>
+    <Props image="Wood2" type="3" x="880" y="328"  rot="90"/>
+
+    <Props image="Wood2" type="3" x="1065" y="257"  rot="90"/>
+    <Props image="Wood2" type="3" x="944" y="167"  rot="90"/>
+    <Props image="Wood2" type="3" x="939" y="148"  rot="90"/>
+
+
+    <Props image="Box" type="13" x="783" y="195"/>
+    <Props image="Box" type="13" x="715" y="367" />
+    <Props image="Box" type="13" x="768" y="367"/>
+    <Props image="Box" type="13" x="935" y="363 "/>
+    
+	<Props image="BirdA"  type="21" x="902" y="407"/>
+    <Props image="BirdB"  type="22" x="1025" y="200"/>
+
+    <Props image="BirdB"  type="22" x="740" y="157" />
+    <Props image="BirdC" type="23" x="744" y="289"/>
+    <Props image="BirdC"  type="23" x="720" y="402"/>
+    <Props image="BirdC"  type="23" x="1015" y="296"/>
+
+
+
+  </Level>
+
+
+
+  <Level BigId="4" SmallId="5">
+    <Score score1="0"
+           score2="48000"
+           score3="55000"/>
+    <ShotPosition x="302" y="278"/>
+    <BackGround image1="Scene_Layer/Bridge1"
+        image2="Scene_Layer/Bridge2"
+        image3="Scene_Layer/Bridge3"
+        image4="Scene_Layer/Bridge4"/>
+
+    <Pig type="3" image="SpeedPigIce" x="213" y="191"/>
+    <Pig type="3" image="SpeedPigIce" x="253" y="191"/>
+    <Pig type="1" image="NormalPigIce" x="300" y="264"/>
+
+
+    <SlingShotL image="SlingShot_L" x="302" y="238"/>
+    <SlingShotR image="SlingShot_R" x="302" y="238"/>
+
+    <Props image="Stone2" type="7" x="305" y="151" />
+    <Props image="Stone2" type="7" x="283" y="151" />
+
+    <Props image="Stone6" type="7" x="253" y="153" />
+    <Props image="Stone6" type="7" x="213" y="153" />
+    <Props image="Stone6" type="7" x="293" y="189" />
+
+    <Props image="Wood4" type="3" x="908" y="292" />
+    <Props image="Wood4" type="3" x="978" y="291" />
+    <Props image="Wood4" type="3" x="909" y="380"/>
+
+    <Props image="Wood5" type="3" x="912" y="336"/>
+    <Props image="Wood5" type="3" x="943" y="242" rot="90"/>
+
+    <Props image="Wood6" type="3" x="992" y="262"/>
+
+    <Props image="Box" type="13" x="852" y="151"/>
+    <Props image="Box" type="13" x="882" y="151" />
+    <Props image="Box" type="13" x="911" y="151"/>
+    <Props image="Box" type="13" x="941" y="151"/>
+    <Props image="Box" type="13" x="971" y="151" />
+    <Props image="Box" type="13" x="870" y="181"/>
+    <Props image="Box" type="13" x="1116" y="269" />
+    <Props image="Box" type="13" x="1001" y="179"/>
+    <Props image="Box" type="13" x="1104" y="179" />
+    <Props image="Box" type="13" x="1104" y="149"/>
+    <Props image="Box" type="13" x="1141" y="149" />
+    <Props image="Box" type="13" x="1134" y="178"/>
+    <Props image="Box" type="13" x="936" y="181" />
+    <Props image="Box" type="13" x="906" y="181"/>
+    <Props image="Box" type="13" x="970" y="180" />
+    <Props image="Box" type="13" x="1101" y="209" />
+    <Props image="Box" type="13" x="1135" y="209"/>
+    <Props image="Box" type="13" x="1101" y="239" />
+    <Props image="Box" type="13" x="1131" y="239" />
+    <Props image="Box" type="13" x="1001" y="149" />
+
+
+    <Props image="Box5" type="11" x="685" y="151" />
+    <Props image="Box5" type="11" x="718" y="151" />
+    <Props image="Box5" type="11" x="750" y="151" />
+
+    <Props image="Glass2" type="15" x="779" y="154"/>
+
+    <Props image="Glass4" type="15" x="804" y="175" />
+    <Props image="Glass4" type="15" x="1053" y="174" />
+
+    <Props image="Glass3" type="15" x="833" y="151"  />
+    <Props image="Glass3" type="15" x="1023" y="152"  />
+    <Props image="Glass3" type="15" x="1084" y="152"  />
+
+    <Props image="Wood1" type="3" x="918" y="211" rot="90"/>
+    <Props image="Wood1" type="3" x="918" y="234" />
+
+    <Props image="Wood2" type="3" x="872" y="270" />
+    <Props image="Wood2" type="3" x="921" y="206"  rot="90"/>
+    <Props image="Wood2" type="3" x="943" y="314"  />
+    <Props image="Wood2" type="3" x="879" y="314" />
+    <Props image="Wood2" type="3" x="883" y="358" />
+    <Props image="Wood2" type="3" x="936" y="358" />
+
+    <Props image="Wood3" type="3" x="976" y="214 "/>
+    <Props image="Wood3" type="3" x="899" y="214"  />
+    <Props image="Wood3" type="3" x="1006" y="214"  />
+    <Props image="Wood3" type="3" x="910" y="247"  rot="90"/>
+    <Props image="Wood3" type="3" x="868" y="215"/>
+    <Props image="Wood3" type="3" x="884" y="238" rot="90"/>
+    <Props image="Wood3" type="3" x="875" y="247"  rot="90"/>
+    <Props image="Wood3" type="3" x="992" y="236" rot="90"/>
+
+    <Props image="BirdF"  type="21" x="1114" y="299"/>
+    <Props image="BirdB"  type="23" x="985" y="314"/>
+    <Props image="BirdB"  type="23" x="910" y="404"/>
+    <Props image="BirdB"  type="23" x="804" y="198" />
+    <Props image="BirdF" type="21" x="909" y="313" />
+
+  </Level>
+
+  <Level BigId="4" SmallId="6">
+    <Score score1="0"
+           score2="54000"
+           score3="60000"/>
+    <ShotPosition x="307" y="243"/>
+    <BackGround image1="Scene_Layer/Water_stone1"
+    image2="Scene_Layer/Water_stone2"
+    image3="Scene_Layer/Water_stone3"
+    image4="Scene_Layer/Water_stone4"/>
+ 
+    <Pig type="1" image="NormalPigIce" x="208" y="192"/>
+    <Pig type="1" image="NormalPigIce" x="243" y="192"/>
+    <Pig type="3" image="SpeedPigIce" x="279" y="192"/>
+    <SlingShotL image="SlingShot_L" x="309" y="203"/>
+    <SlingShotR image="SlingShot_R" x="309" y="203"/>
+    <Props image="Stone6" type="7" x="302" y="155"  />
+    <Props image="Stone6" type="7" x="144" y="155"  />
+    <Props image="Stone6" type="7" x="183" y="155"  />
+    <Props image="Stone6" type="7" x="223" y="154"  />
+    <Props image="Stone6" type="7" x="263" y="155"  />
+
+     <Props image="Apple" type="50" x="693" y="360" />
+
+      <Props image="Stone2" type="33" x="792" y="311" rot="90"/>
+      <Props image="Stone2" type="3" x="863" y="383" rot="90" />
+      <Props image="Wood2" type="3" x="778" y="393" rot="90"/>
+      <Props image="Wood2" type="3" x="775" y="373" rot="90"/>
+      <Props image="Stone2" type="33" x="757" y="311" rot="90"/>
+
+
+      <Props image="Stone3" type="33" x="695" y="272" rot="90"/>
+      <Props image="Stone3" type="33" x="682" y="295" />
+      <Props image="Stone3" type="33" x="706" y="295" />
+      <Props image="Stone5" type="33" x="708" y="211" rot="90"/>
+      <Props image="Stone5" type="33" x="683" y="211" rot="90"/>
+      <Props image="Stone6" type="33" x="695" y="156"  />
+    
+      <Props image="Wood5" type="3" x="765" y="218" />
+	  <Props image="Wood5" type="3" x="1003" y="233"/>
+	  <Props image="Wood5" type="3" x="992" y="280"/>
+	  
+	   <Props image="Wood3" type="603" x="762" y="338" state="begin_null" />
+      <Props image="Wood3" type="603" x="789" y="338" />
+      <Props image="Wood5" type="603" x="851" y="297" />
+      <Props image="Wood5" type="603" x="761" y="298" />
+	  <Props image="Wood2" type="3" x="868" y="347"  rot="90"/>
+      <Props image="Wood2" type="3" x="868" y="320" state="end"/>
+      <Props image="Wood5" type="3" x="850" y="371" />
+      <Props image="Wood5" type="603" x="784" y="361" state="begin_null"/>
+      <Props image="Wood5" type="603" x="875" y="361" state="end"/>
+      <Props image="Wood4" type="3" x="964" y="191" rot="90"/>
+
+
+
+      <Props image="Wood3" type="3" x="782" y="154" />
+      <Props image="Wood3" type="3" x="762" y="154" />
+      <Props image="Wood3" type="3" x="753" y="154"/>
+      <Props image="Wood3" type="3" x="876" y="233" />
+      <Props image="Wood3" type="3" x="856" y="233" />
+      <Props image="Wood3" type="3" x="727" y="154"  />
+      <Props image="Wood3" type="3" x="779" y="208"  rot="90"/>
+      <Props image="Wood2" type="3" x="941" y="145"  rot="90"/>
+      <Props image="Wood2" type="3" x="1014" y="206" rot="90"/>
+      <Props image="Wood2" type="3" x="977" y="145"  rot="90"/>
+      <Props image="Wood2" type="3" x="905" y="145"   rot="90"/>
+      <Props image="Wood2" type="3" x="741" y="241"  />
+      <Props image="Wood2" type="3" x="1014" y="256"   />
+      <Props image="Wood2" type="3" x="968" y="255"   />
+      <Props image="Wood1" type="3" x="857" y="175"/>
+      <Props image="Wood1" type="3" x="1013" y="210" rot="90"/>
+      <Props image="Wood1" type="3" x="876" y="175"/>
+      <Props image="Wood6" type="3" x="1045" y="157" />
+      <Props image="Wood6" type="3" x="776" y="272" />
+      <Props image="Wood6" type="3" x="864" y="271" />
+      <Props image="Wood6" type="3" x="740" y="192" />
+      <Props image="Box" type="13" x="693" y="326"/>
+      <Props image="Box" type="13" x="1010" y="151" />
+      <Props image="Box" type="13" x="776" y="187"/>
+      <Props image="Box" type="13" x="867" y="150 "/>
+      <Props image="Box" type="13" x="866" y="198 "/>
+      <Props image="Box" type="13" x="740" y="274"/>
+      <Props image="Box" type="13" x="1048" y="192" />
+      <Props image="Box" type="13" x="1010" y="182"/>
+      <Props image="Box" type="13" x="778" y="238 "/>
+
+      <Props image="BirdA"  type="22" x="979" y="302"/>
+      <Props image="BirdA"  type="22" x="829" y="150" />
+
+      <Props image="BirdF"  type="21" x="936" y="172"/>
+      <Props image="BirdF"  type="21" x="906" y="172"/>
+      <Props image="BirdA"  type="22" x="1010" y="298"/>
+      <Props image="BirdA"  type="22" x="775" y="417" />
+
+
+    
+      <Props image="Grass" type="2" x="654" y="150" />
+      <Props image="Grass" type="2" x="534" y="150" />
+      <Props image="Grass" type="2" x="1173" y="150" />
+
+
+  </Level>
+  <Level BigId="4" SmallId="7">
+    <Score score1="0"
+           score2="48000"
+           score3="53000"/>
+    <ShotPosition x="305" y="283"/>
+    <BackGround image1="Scene_Layer/Bridge1"
+        image2="Scene_Layer/Bridge2"
+        image3="Scene_Layer/Bridge3"
+        image4="Scene_Layer/Bridge4"/>
+    <Pig type="3" image="SpeedPigIce" x="179" y="151"/>
+    <Pig type="1" image="NormalPigIce" x="217" y="189"/>
+    <Pig type="1" image="NormalPigIce" x="264" y="232"/>
+    <SlingShotL image="SlingShot_L" x="305" y="245"/>
+    <SlingShotR image="SlingShot_R" x="305" y="245"/>
+    <Props image="Wood6" type="7" x="217" y="154" />
+    <Props image="Wood6" type="7" x="257" y="154" />
+    <Props image="Wood6" type="7" x="297" y="154" />
+    <Props image="Wood6" type="7" x="297" y="196" />
+	<Props image="Wood6" type="7" x="257" y="196" />
+	
+    <Props image="Stone2" type="33" x="1100" y="144" rot="90"/>
+    <Props image="Stone2" type="33" x="1020" y="171"  />
+    <Props image="Stone2" type="33" x="1038" y="171" />
+    <Props image="Stone2" type="33" x="1091" y="171" />
+    <Props image="Stone2" type="33" x="1108" y="171" />
+    <Props image="Stone2" type="33" x="1029" y="144"  rot="90"/>
+
+    <Props image="Stone6" type="33" x="942" y="157"  />
+    <Props image="Stone6" type="33" x="902" y="157"  />
+    <Props image="Stone6" type="33" x="858" y="198"  />
+    <Props image="Stone6" type="33" x="942" y="198"  />
+    <Props image="Stone6" type="33" x="902" y="198"  />
+    <Props image="Stone6" type="33" x="858" y="157"  />
+
+    <Props image="Wood5" type="603" x="858" y="391" rot="90" state="begin_null"/>
+	<Props image="Wood5" type="603" x="898" y="441" />
+    <Props image="Wood5" type="603" x="930" y="391" rot="90" state="end"/>
+	<Props image="Wood5" type="3" x="747" y="181" rot="90"/>
+
+    <Props image="Wood4" type="3" x="1065" y="194"/>
+       
+    <Props image="Wood4" type="3" x="777" y="232" />
+    <Props image="Wood4" type="3" x="910" y="494" />
+    <Props image="Wood4" type="3" x="920" y="450" />
+    <Props image="Wood4" type="603" x="850" y="450" tag="1" state="begin_null"/>
+    <Props image="Grape" type="50" x="814" y="420" to="1" state="end"/>
+    
+	<Props image="Wood3" type="3" x="801" y="213" rot="90"/>
+    <Props image="Wood3" type="3" x="893" y="321"/>
+	
+    <Props image="Wood3" type="3" x="1037" y="245"  />
+    <Props image="Wood3" type="3" x="1057" y="246" />
+	
+    <Props image="Wood3" type="3" x="1075" y="246"  />
+    <Props image="Wood3" type="3" x="1094" y="245"  />
+		
+    <Props image="Wood3" type="603" x="851" y="321" state="begin_null"/>
+    <Props image="Wood4" type="603" x="878" y="343" />
+    <Props image="Wood3" type="603" x="931" y="343" rot="90"/>
+    <Props image="Wood3" type="603" x="940" y="322" state="end"/>
+    
+    <Props image="Wood2" type="3" x="884" y="472"/>
+    <Props image="Wood2" type="3" x="938" y="472" />
+	
+    <Props image="Wood2" type="603" x="848" y="277" state="begin_null"/>
+	<Props image="Wood4" type="603" x="878" y="299"/>
+    <Props image="Wood3" type="603" x="931" y="299" rot="90"/>
+    <Props image="Wood2" type="603" x="945" y="277" state="end"/>
+	
+    <Props image="Wood2" type="3" x="913" y="277"  />
+	<Props image="Wood2" type="3" x="913" y="321"  />
+
+    <Props image="Wood6" type="3" x="857" y="239" />
+    <Props image="Wood6" type="3" x="803" y="196" />
+    <Props image="Wood6" type="3" x="803" y="157" />
+    <Props image="Wood6" type="3" x="897" y="238" />
+    <Props image="Wood6" type="3" x="897" y="409" />
+    <Props image="Wood6" type="3" x="897" y="368" />
+    <Props image="Wood6" type="3" x="937" y="238" />
+  
+    <Props image="Box" type="13" x="1046" y="278"/>
+    <Props image="Box" type="13" x="1085" y="213" />
+    <Props image="Box" type="13" x="996" y="150"/>
+    <Props image="Box" type="13" x="860" y="469 "/>
+    <Props image="Box" type="13" x="1046" y="213 "/>
+    <Props image="Box" type="13" x="1084" y="277 "/>
+
+    <Props image="Box5" type="11" x="687" y="152" />
+    <Props image="Box5" type="11" x="872" y="318"/>
+    <Props image="Box5" type="11" x="720" y="153 "/>
+
+    <Props image="BirdF" type="21" x="912" y="469"/>
+    <Props image="BirdA"  type="22" x="857" y="499"/>
+    <Props image="BirdA"  type="22" x="1081" y="307"/>
+    <Props image="BirdA"  type="22" x="1046" y="307" />
+    <Props image="BirdB"  type="23" x="781" y="255"/>
+    <Props image="BirdB"  type="23" x="911" y="516" />
+
+    <Props image="Flower" type="6" x="611" y="161" />
+    <Props image="Grass" type="2" x="1173" y="149" />
+
+
+
+  </Level>
+
+  <Level BigId="4" SmallId="8">
+    <Score score1="0"
+           score2="68000"
+           score3="75000"/>
+    <ShotPosition x="299" y="240"/>
+    <BackGround image1="Scene_Layer/Bridge1"
+        image2="Scene_Layer/Bridge2"
+        image3="Scene_Layer/Bridge3"
+        image4="Scene_Layer/Bridge4"/>
+
+
+    <Pig type="1" image="NormalPigIce" x="221" y="182"/>
+    <Pig type="2" image="NinjaPigIce" x="256" y="192"/>
+    <Pig type="2" image="NinjaPigIce" x="293" y="192"/>
+ 
+    <SlingShotL image="SlingShot_L" x="299" y="208"/>
+    <SlingShotR image="SlingShot_R" x="299" y="208"/>
+    <Props image="Stone6" type="7" x="256" y="156" />
+    <Props image="Stone6" type="7" x="296" y="156" />
+    <Props image="Box5" type="7" x="221" y="151"/>
+
+    <Props image="Glass1" type="15" x="733" y="184" rot="90"/>
+    <Props image="Glass1" type="15" x="974" y="347" rot="90"/>
+    <Props image="Glass1" type="15" x="783" y="435" rot="90"/>
+    <Props image="Glass1" type="15" x="732" y="264" rot="90"/>
+
+
+    <Props image="Glass2" type="15" x="759" y="188" rot="90"/>
+    <Props image="Glass2" type="15" x="876" y="214" rot="90"/>
+    <Props image="Glass2" type="15" x="787" y="333" rot="90"/>
+    <Props image="Glass2" type="15" x="777" y="421" rot="90"/>
+    <Props image="Glass2" type="15" x="821" y="458" rot="90"/>
+    <Props image="Glass2" type="15" x="875" y="243" rot="90"/>
+    <Props image="Glass2" type="15" x="975" y="333" rot="90"/>
+    <Props image="Glass2" type="15" x="1093" y="440" rot="90"/>
+    <Props image="Glass2" type="15" x="1008" y="405" rot="90"/>
+    <Props image="Glass2" type="15" x="732" y="207" />
+    <Props image="Glass2" type="15" x="732" y="242"/>
+    <Props image="Glass2" type="15" x="767" y="217" />
+    <Props image="Glass2" type="15" x="767" y="252" />
+    <Props image="Glass2" type="15" x="766" y="297" />
+    <Props image="Glass2" type="15" x="778" y="395" />
+    <Props image="Glass2" type="15" x="1153" y="358" />
+    <Props image="Glass2" type="15" x="1134" y="358" />
+    <Props image="Glass2" type="15" x="1060" y="335" />
+    <Props image="Glass2" type="15" x="1059" y="370" />
+    <Props image="Glass2" type="15" x="1077" y="414" />
+    <Props image="Glass2" type="15" x="986" y="379" />
+    <Props image="Glass2" type="15" x="1029" y="379" />
+    <Props image="Glass2" type="15" x="1110" y="414" />
+    <Props image="Glass2" type="15" x="1042" y="335" />
+    <Props image="Glass2" type="15" x="975" y="271" />
+    <Props image="Glass2" type="15" x="975" y="307" />
+    <Props image="Glass2" type="15" x="975" y="236" />
+    <Props image="Glass2" type="15" x="778" y="360" />
+    <Props image="Glass2" type="15" x="733" y="297" />
+    <Props image="Glass2" type="15" x="876" y="197" />
+
+    <Props image="Glass3" type="15" x="799" y="296"  />
+    <Props image="Glass3" type="15" x="746" y="275" rot="90" />
+    <Props image="Glass3" type="15" x="838" y="265" rot="90"/>
+    <Props image="Glass3" type="15" x="1144" y="381"  rot="90"/>
+    <Props image="Glass3" type="15" x="1104" y="304" rot="90"/>
+
+    <Props image="Glass4" type="15" x="769" y="319" />
+    <Props image="Glass4" type="15" x="799" y="274" />
+
+    <Props image="Glass5" type="15" x="831" y="347" />
+    <Props image="Glass5" type="15" x="1078" y="313" />
+    <Props image="Glass5" type="15" x="821" y="445" />
+    <Props image="Glass5" type="15" x="1005" y="357" />
+    <Props image="Glass5" type="15" x="1096" y="392"  />
+    <Props image="Glass5" type="15" x="875" y="297" rot="90" />
+    <Props image="Glass5" type="15" x="863" y="395" rot="90"/>
+    <Props image="Glass5" type="15" x="1041" y="262"  rot="90"/>
+
+    <Props image="Glass6" type="15" x="838" y="199" />
+    <Props image="Glass6" type="15" x="838" y="240" />
+    <Props image="Glass6" type="15" x="1143" y="319" />
+
+    <Props image="Stone6" type="33" x="759" y="159" />
+    <Props image="Stone6" type="33" x="1045" y="157"  />
+    <Props image="Stone6" type="33" x="871" y="159" />
+    <Props image="Stone6" type="33" x="718" y="159" />
+    <Props image="Stone6" type="33" x="984" y="157"  />
+    <Props image="Stone6" type="33" x="831" y="159" />
+    <Props image="Stone6" type="33" x="986" y="198" />
+    <Props image="Stone6" type="33" x="1025" y="198" />
+    <Props image="Stone6" type="33" x="1102" y="156" />
+    <Props image="Stone6" type="33" x="1101" y="197" />
+    <Props image="Stone6" type="33" x="1101" y="237" />
+    <Props image="Stone6" type="33" x="1102" y="279" />
+    <Props image="Stone6" type="33" x="1143" y="278" />
+    <Props image="Stone6" type="33" x="1143" y="236" />
+    <Props image="Stone6" type="33" x="1141" y="196" />
+   
+
+    <Props image="Stone6" type="33" x="1143" y="159" />
+
+
+    <Props image="BirdA" type="22" x="821" y="483"/>
+    <Props image="BirdA"  type="22" x="824" y="367"/>
+    <Props image="BirdA"  type="22" x="820" y="293"/>
+    <Props image="BirdB"  type="23" x="1093" y="468"/>
+    <Props image="BirdB"  type="23" x="1009" y="434" />
+    <Props image="BirdB"  type="23" x="1095" y="338" />
+
+
+
+
+
+  </Level>
+
+  <Level BigId="4" SmallId="9">
+    <Score score1="0"
+           score2="54000"
+           score3="60000"/>
+    <ShotPosition x="303" y="269"/>
+    <BackGround image1="Scene_Layer/Bridge1"
+        image2="Scene_Layer/Bridge2"
+        image3="Scene_Layer/Bridge3"
+        image4="Scene_Layer/Bridge4"/>
+
+
+    <Pig type="1" image="NormalPigIce" x="184" y="153"/>
+    <Pig type="3" image="SpeedPigIce" x="233" y="181"/>
+    <Pig type="2" image="NinjaPigIce" x="299" y="257"/>
+    <SlingShotL image="SlingShot_L" x="305" y="231"/>
+    <SlingShotR image="SlingShot_R" x="305" y="231"/>
+    <Props image="Wood2" type="7" x="272" y="182" />
+    <Props image="Box" type="7" x="306" y="149" />
+    <Props image="Wood6" type="7" x="302" y="183" />
+    <Props image="Box5" type="7" x="247" y="151 "/>
+    <Props image="Box5" type="7" x="217" y="151" />
+	<Props image="Box5" type="7" x="276" y="150"/>
+    <Props image="Stone6" type="7" x="242" y="153"  />
+   
+   <Props image="Banana" type="55" x="1080" y="413" />
+
+    <Props image="Glass2" type="15" x="873" y="189" />
+    <Props image="Glass2" type="15" x="876" y="213" />
+    <Props image="Glass2" type="15" x="876" y="276" />
+    <Props image="Glass2" type="15" x="895" y="293" />
+    <Props image="Glass2" type="15" x="965" y="293" />
+    <Props image="Glass2" type="15" x="984" y="275" />
+    <Props image="Glass2" type="15" x="894" y="213" />
+    <Props image="Glass2" type="15" x="964" y="213" />
+    <Props image="Glass2" type="15" x="982" y="213" />
+    <Props image="Glass2" type="15" x="984" y="189" />
+
+    <Props image="Glass3" type="15" x="903" y="202" rot="90"/>
+    <Props image="Glass3" type="15" x="903" y="271" rot="90"/>
+    <Props image="Glass3" type="15" x="958" y="271" rot="90"/>
+    <Props image="Glass3" type="15" x="956" y="202" rot="90"/>
+
+    <Props image="Glass4" type="15" x="699" y="272" rot="90"/>
+    <Props image="Glass4" type="15" x="745" y="272" rot="90"/>
+    <Props image="Glass4" type="15" x="1083" y="345" rot="90"/>
+    <Props image="Glass4" type="15" x="1124" y="345" rot="90"/>
+
+    <Props image="Glass5" type="15" x="928" y="194" />
+    <Props image="Glass5" type="15" x="930" y="263" />
+    <Props image="Glass5" type="15" x="930" y="316"/>
+    <!--
+    <Props image="Glass7" type="7" x="911" y="339" />
+    <Props image="Glass7" type="7" x="951" y="339" />
+    <Props image="Glass7" type="7" x="931" y="345" rot="180"/>
+-->
+
+    
+    <Props image="Stone6" type="33" x="1132" y="153"  />
+
+
+    <Props image="Wood2" type="3" x="864" y="145" rot="90"/>
+    <Props image="Wood2" type="3" x="864" y="162" rot="90"/>
+    <Props image="Wood2" type="3" x="908" y="162" rot="90"/>
+    <Props image="Wood2" type="3" x="902" y="180" rot="90"/>
+    <Props image="Wood2" type="3" x="908" y="144" rot="90"/>
+    <Props image="Wood2" type="3" x="972" y="162" rot="90"/>
+    <Props image="Wood2" type="3" x="958" y="180" rot="90"/>
+    <Props image="Wood2" type="3" x="974" y="249" rot="90"/>
+    <Props image="Wood2" type="3" x="885" y="249" rot="90"/>
+    <Props image="Wood2" type="3" x="970" y="144" rot="90"/>
+    <Props image="Wood2" type="3" x="1048" y="275" />
+
+
+    <Props image="Box" type="13" x="720" y="252"/>
+    <Props image="Box" type="13" x="721" y="283" />
+  
+
+    <Props image="Wood5" type="3" x="1093" y="307" />
+    <Props image="Wood5" type="3" x="1020" y="298" />
+    <Props image="Wood5" type="3" x="1103" y="386" />
+    <Props image="Wood5" type="3" x="681" y="182" rot="90"/>
+    <Props image="Wood5" type="3" x="757" y="182" rot="90"/>
+    <Props image="Wood5" type="3" x="1132" y="210" rot="90"/>
+    <Props image="Wood5" type="3" x="1049" y="211" rot="90"/>
+    <Props image="Wood5" type="3" x="721" y="313" />
+    <Props image="Wood5" type="3" x="720" y="233" />
+
+
+    <Props image="Wood3" type="3" x="1132" y="284"  />
+
+
+    <Props image="Wood6" type="3" x="1013" y="155" />
+    <Props image="Wood9" type="3" x="1119" y="406" />
+
+    <Props image="Box5" type="11" x="1048" y="150" />
+    <Props image="Box5" type="11" x="932" y="381 "/>
+    <Props image="Box5" type="11" x="721" y="333" />
+    <Props image="Box5" type="11" x="831" y="151"/>
+    <Props image="Box5" type="11" x="1103" y="326"/>
+    <Props image="Box5" type="11" x="1103" y="356"/>
+
+
+    <Props image="BirdA"  type="21" x="928" y="288"/>
+    <Props image="BirdA"  type="21" x="928" y="212"/>
+    <Props image="BirdC"  type="23" x="728" y="367" />
+    <Props image="BirdC"  type="23" x="720" y="154" />
+    <Props image="BirdC"  type="23" x="1013" y="324."/>
+
+
+  </Level>
+  <Level BigId="4" SmallId="10">
+    <Score score1="0"
+           score2="38000"
+           score3="42000"/>
+    <ShotPosition x="300" y="235"/>
+    <BackGround image1="Scene_Layer/Bridge1"
+      image2="Scene_Layer/Bridge2"
+      image3="Scene_Layer/Bridge3"
+      image4="Scene_Layer/Bridge4"/>
+
+    <Pig type="3" image="SpeedPigIce" x="192" y="152"/>
+    <Pig type="2" image="NinjaPigIce" x="228" y="168"/>
+    <Pig type="3" image="SpeedPigIce" x="273" y="194"/>
+
+    <SlingShotL image="SlingShot_L" x="302" y="203"/>
+    <SlingShotR image="SlingShot_R" x="302" y="203"/>
+    <Props image="Stone2" type="7" x="292" y="152" />
+    <Props image="Stone2" type="7" x="274" y="152"  />
+    <Props image="Stone2" type="7" x="256" y="152" />
+    <Props image="Stone2" type="7" x="230" y="143" rot="90"/>
+    <Props image="Stone2" type="7" x="310" y="152" />
+    <Props image="Stone4" type="7" x="284" y="174" />
+	
+	
+    <Props image="Box5" type="11" x="929" y="321"/>
+    <Props image="Box5" type="11" x="1000" y="353"/>
+    <Props image="Box5" type="11" x="790" y="213"/>
+
+    <Props image="Box5" type="11" x="852" y="320"/>
+    <Props image="Box5" type="11" x="853" y="349"/>
+    <Props image="Box5" type="11" x="927" y="293"/>
+    <Props image="Box5" type="11" x="789" y="350"/>
+
+    <Props image="Box5" type="11" x="789" y="252"/>
+    <Props image="Box5" type="11" x="927" y="350"/>
+    <Props image="Box5" type="11" x="789" y="281"/>
+    <Props image="Box5" type="11" x="855" y="233"/>
+    <Props image="Box5" type="11" x="789" y="194"/>
+
+    <Props image="Flower" type="6" x="641" y="161" />
+
+    <Props image="Glass1" type="15" x="552" y="149" />
+    <Props image="Glass1" type="15" x="507" y="149" />
+
+    <Props image="Glass2" type="15" x="716" y="205" rot="90"/>
+    <Props image="Glass2" type="15" x="929" y="269" rot="90"/>
+    <Props image="Glass2" type="15" x="1042" y="350" rot="90"/>
+    <Props image="Glass2" type="15" x="718" y="187" rot="90"/>
+    <Props image="Glass2" type="15" x="716" y="392" />
+    <Props image="Glass2" type="15" x="726" y="273" />
+    <Props image="Glass2" type="15" x="726" y="348" />
+    <Props image="Glass2" type="15" x="706" y="348" />
+    <Props image="Glass2" type="15" x="789" y="392" />
+    <Props image="Glass2" type="15" x="1041" y="377" />
+    <Props image="Glass2" type="15" x="933" y="391"/>
+    <Props image="Glass2" type="15" x="707" y="273" />
+    <Props image="Glass2" type="15" x="1000" y="392" />
+    <Props image="Glass2" type="15" x="855" y="296" rot="90"/>
+
+    <Props image="Glass4" type="15" x="982" y="370" />
+    <Props image="Glass4" type="15" x="912" y="370" />
+
+    <Props image="Glass5" type="15" x="742" y="370" />
+    <Props image="Glass5" type="15" x="832" y="370" />
+
+    <Props image="Glass6" type="15" x="716" y="310" />
+    <Props image="Glass6" type="15" x="789" y="315" />
+    <Props image="Glass6" type="15" x="855" y="267" />
+    <Props image="Glass6" type="15" x="716" y="235" />
+
+    <Props image="Stone6" type="33" x="879" y="159" />
+    <Props image="Stone6" type="33" x="1032" y="159"  />
+    <Props image="Stone6" type="33" x="716" y="159" />
+    <Props image="Stone6" type="33" x="855" y="199" />
+    <Props image="Stone6" type="33" x="985" y="157" />
+    <Props image="Stone6" type="33" x="1136" y="154" />
+    <Props image="Stone6" type="33" x="1072" y="154" />
+    <Props image="Stone6" type="33" x="789" y="158" />
+    <Props image="Stone6" type="33" x="959" y="198" />
+    <Props image="Stone6" type="33" x="1072" y="197" />
+    <Props image="Stone6" type="33" x="1112" y="196" />
+    <Props image="Stone6" type="33" x="935" y="239" />
+    <Props image="Stone6" type="33" x="965" y="279" />
+    <Props image="Stone6" type="33" x="997" y="319" />
+    <Props image="Stone6" type="33" x="1043" y="319" />
+    <Props image="Stone6" type="33" x="1017" y="278" />
+    <Props image="Stone6" type="33" x="1059" y="278" />
+    <Props image="Stone6" type="33" x="987" y="238" />
+    <Props image="Stone6" type="33" x="1043" y="238" />
+    <Props image="Stone6" type="33" x="1083" y="238" />
+    <Props image="Stone6" type="33" x="1012" y="198"  />
+    <Props image="Stone6" type="33" x="932" y="158" />
+    <Props image="Stone6" type="33" x="910" y="199" />
+    <Props image="Stone6" type="33" x="832" y="158"  />
+
+
+    <Props image="BirdF" type="21" x="933" y="423"/>
+    <Props image="BirdF"  type="21" x="1041" y="408"/>
+    <Props image="Sp03"  type="55" x="897" y="389" />
+    <Props image="BirdB"  type="23" x="791" y="428" />
+    <Props image="BirdB"  type="23" x="717" y="428" />
+
+  </Level>
+</Levels>
